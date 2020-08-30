@@ -1,2 +1,18 @@
-# My-dog-identifier
-Using this model I want to find out the my dog's breed
+# My dog breed identifier
+
+<div align="center"> <img src="./SandyPhoto/IMG-20190522-WA0003.jpg" width="700" height="200"> </div>
+
+## Problem statement
+
+My dog name is Sandy. I don't know his breed. So, to find out his breed I have developed deep learning model.
+
+## License
+
+[![MIT License](https://img.shields.io/github/license/ashishcssom/Face_Mask_Detection_end_to_end_project.svg?style=flat-square&colorB=C62121)](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/LICENSE)
+```
+Copyright (c) 2020 Ashish Kumar
+```
+
+## Contact
+[![LinkedIn](https://img.shields.io/badge/-Ashish%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashishk766/)](https://www.linkedin.com/in/ashishk766/) 
+[![Gmail](https://img.shields.io/badge/-Ashish%20Kumar-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ashish.krb7@gmail.com)](mailto:ashish.krb7@gmail.com) 
