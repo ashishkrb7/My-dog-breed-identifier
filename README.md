@@ -4,7 +4,12 @@
 
 ## Problem statement
 
-My dog name is Sandy. I don't know his breed. So, to find out his breed I have developed deep learning model :laugh:.
+My dog name is Sandy. I don't know his breed. So, to find out his breed I have developed deep learning model 🤭.
+
+## Result
+```
+Waiting fo result
+```
 
 ## License
 
