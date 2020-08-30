@@ -7,9 +7,11 @@
 My dog name is **Sandy**. I don't know his breed. So, to find out his breed I have developed deep learning model 🤭.
 
 ## Result
-```
-Waiting fo result
-```
+| | |
+|---|---|
+|<img src="./SandyPhoto/Result1.PNG" width="400" height="400"> |<img src="./SandyPhoto/Result2.PNG" width="400" height="400">|
+
+<div align="center"> My 🐕 fooled my DL model with his smile 😠 </div>
 
 ## License
 
