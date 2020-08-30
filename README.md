@@ -1,6 +1,6 @@
 # My dog breed identifier
 
-<div align="center"> <img src="./SandyPhoto/IMG-20190522-WA0003.jpg" width="700" height="200"> </div>
+<div align="center"> <img src="./SandyPhoto/IMG-20190522-WA0003.jpg"> </div>
 
 ## Problem statement
 
