@@ -1,10 +1,10 @@
-# My dog breed identifier
+# <div align="center"> My dog breed identifier </div>
 
 <div align="center"> <img src="./SandyPhoto/IMG-20190522-WA0003.jpg" width="400" height="400"> </div>
 
 ## Problem statement
 
-My dog name is Sandy. I don't know his breed. So, to find out his breed I have developed deep learning model.
+My dog name is Sandy. I don't know his breed. So, to find out his breed I have developed deep learning model :laugh:.
 
 ## License
 
